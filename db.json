@@ -62,5 +62,42 @@
           "status": false,
           "id": 6
         }
-      ]
+      ],
+      "dogs":[
+        {
+            "id": 2,
+            "name": "Tommy",
+            "age": "3",
+            "place": "Banglore",
+            "gender": "Female"
+        },
+        {
+            "id": 7981,
+            "name": "Charlia",
+            "age": "5",
+            "gender": "Male",
+            "place": "jamshedpur"
+        },
+        {
+            "id": 8328,
+            "name": "harry",
+            "age": "1",
+            "gender": "Female",
+            "place": "Ranchi"
+        },
+        {
+            "id": 4575,
+            "name": "papau",
+            "age": "5",
+            "gender": "Male",
+            "place": "Dhanbad"
+        },
+        {
+            "id": 1006,
+            "name": "puppy",
+            "age": "2",
+            "gender": "Female",
+            "place": "Bokaro"
+        }
+    ]
   }
